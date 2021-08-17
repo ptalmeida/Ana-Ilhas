@@ -10,6 +10,7 @@
 | Rua da Corticeira, 15, Sé | 5 |
 | Rua da Corticeira, 24A e 38, Sé | 6 |
 | Rua da Corticeira, 25, Sé (Bairro Maria Victorina) | 22 |
+| Rua da Corticeira, 381, Sé | 7 |
 | Rua da Corticeira, 43, Sé | 5 |
 | Rua da Corticeira, 46, Sé | 11 |
 | Rua da Corticeira, 50, Sé | 18 |
@@ -53,3 +54,4 @@
 | Rua Passeio das Fontainhas, 318, Sé | 23 |
 | Travessa de S. Victor, 22, Bonfim | 6 |
 | Calçada da Corticeira, 13, Sé | 7 |
+| **Total** | 787 |

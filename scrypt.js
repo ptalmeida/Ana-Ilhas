@@ -9,6 +9,7 @@ var links = [
     "http://www.domussocial.pt/ilhas/rua-da-corticeira-15-se",
     "http://www.domussocial.pt/ilhas/rua-da-corticeira-24a-e-38-se",
     "http://www.domussocial.pt/ilhas/rua-da-corticeira-25-se-bairro-maria-victorina",
+    "http://www.domussocial.pt/ilhas/rua-da-corticeira-38a-se",
     "http://www.domussocial.pt/ilhas/rua-da-corticeira-43-se",
     "http://www.domussocial.pt/ilhas/rua-da-corticeira-46-se",
     "http://www.domussocial.pt/ilhas/rua-da-corticeira-50-se",
