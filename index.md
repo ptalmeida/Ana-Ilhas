@@ -1,37 +1,61 @@
-## Welcome to GitHub Pages
+## Pagina de trabalho da Ana Calçada
 
-You can use the [editor on GitHub](https://github.com/ptalmeida/Ana-Ilhas/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+A melhor arquitecta. (nada de copiar).
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Ilhas na zona das fontaínhas
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ptalmeida/Ana-Ilhas/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+| Ilhas | Fogos |
+|---|---|
+| Praça da Alegria, 53, Bonfim | 18 |
+| Praça da Alegria, 56, Bonfim | 7 |
+| Praça da Alegria, 76, Bonfim | 12 |
+| Praça da Alegria, 81, Bonfim | 23 |
+| Praça da Alegria, 85, Bonfim | 8 |
+| Rua da Corticeira, 15, Sé | 5 |
+| Rua da Corticeira, 24A e 38, Sé | 6 |
+| Rua da Corticeira, 25, Sé (Bairro Maria Victorina) | 22 |
+| Rua da Corticeira, 381, Sé | 7 |
+| Rua da Corticeira, 43, Sé | 5 |
+| Rua da Corticeira, 46, Sé | 11 |
+| Rua da Corticeira, 50, Sé | 18 |
+| Rua da Corticeira, 53, Sé | 7 |
+| Rua da Corticeira, 9, Sé (Bairro Olímpia) | 10 |
+| Rua das Fontainhas, 203, Sé | 7 |
+| Rua de Alexandre Herculano, 155, Sé (Bairro Herculano) | 144 |
+| Rua de Gomes Freire, 208, Bonfim | 12 |
+| Rua de Gomes Freire, 65, Bonfim | 16 |
+| Rua de Gomes Freire, 9 e 1, Bonfim | 27 |
+| Rua de Gomes Freire, 94, Bonfim | 6 |
+| Rua de Joaquim António de Aguiar, 10, Bonfim | 15 |
+| Rua de S. Victor, 101, Bonfim | 11 |
+| Rua de S. Victor, 104, Bonfim | 22 |
+| Rua de S. Victor, 109, Bonfim | 25 |
+| Rua de S. Victor, 113, Bonfim | 5 |
+| Rua de S. Victor, 116, Bonfim | 17 |
+| Rua de S. Victor, 158, Bonfim | 10 |
+| Rua de S. Victor, 164, Bonfim | 10 |
+| Rua de S. Victor, 166, Bonfim | 10 |
+| Rua de S. Victor, 172, Bonfim | 12 |
+| Rua de S. Victor, 182, Bonfim | 19 |
+| Rua de S. Victor, 184, Bonfim | 8 |
+| Rua de S. Victor, 23, Bonfim | 16 |
+| Rua de S. Victor, 48, Bonfim | 7 |
+| Rua de S. Victor, 49, Bonfim | 9 |
+| Rua de S. Victor, 62, Bonfim | 11 |
+| Rua de S. Victor, 62 Traseiras, Bonfim | 6 |
+| Rua de S. Victor, 68A, Bonfim | 17 |
+| Rua de S. Victor, 76, Bonfim | 19 |
+| Rua de S. Victor, 80, Bonfim | 4 |
+| Rua de S. Victor, 83, Bonfim | 15 |
+| Rua de S. Victor, 90, Bonfim | 13 |
+| Rua de S. Victor, 99A, Bonfim | 9 |
+| Rua do Barão de S. Cosme, 11, Bonfim | 5 |
+| Rua do Barão de S. Cosme, 35, Bonfim | 11 |
+| Rua do Duque de Saldanha, 188, Bonfim | 7 |
+| Rua do Duque de Saldanha, 212, Bonfim | 5 |
+| Rua do Duque de Saldanha / Rua Particular Maria Albertina, 62, Bonfim | 26 |
+| Rua Passeio das Fontainhas, 31, Sé (Bairro da Tapada) | 36 |
+| Rua Passeio das Fontainhas, 318, Sé | 23 |
+| Travessa de S. Victor, 22, Bonfim | 6 |
+| Calçada da Corticeira, 13, Sé | 7 |
+| **Total** | 787 |
