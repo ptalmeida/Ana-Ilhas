@@ -1,6 +1,7 @@
 ## Ilhas na zona das fontaínhas
 
 | Ilhas | Fogos |
+|---|---|
 | Praça da Alegria, 53, Bonfim | 18 |
 | Praça da Alegria, 56, Bonfim | 7 |
 | Praça da Alegria, 76, Bonfim | 12 |
