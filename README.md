@@ -16,8 +16,6 @@
 | Rua da Corticeira, 50, Sé | 18 |
 | Rua da Corticeira, 53, Sé | 7 |
 | Rua da Corticeira, 9, Sé (Bairro Olímpia) | 10 |
-| Rua das Fontainhas, 203, Sé | 7 |
-| Rua de Alexandre Herculano, 155, Sé (Bairro Herculano) | 144 |
 | Rua de Gomes Freire, 208, Bonfim | 12 |
 | Rua de Gomes Freire, 65, Bonfim | 16 |
 | Rua de Gomes Freire, 9 e 1, Bonfim | 27 |
@@ -54,4 +52,4 @@
 | Rua Passeio das Fontainhas, 318, Sé | 23 |
 | Travessa de S. Victor, 22, Bonfim | 6 |
 | Calçada da Corticeira, 13, Sé | 7 |
-| **Total** | 787 |
+| **Total** | 636 |
